@@ -2,6 +2,8 @@
 
 I am an experienced Test Automation Engineer 🤖 with a demonstrated history of working in the banking and insurance industry. Skilled in SQL, Test Automation, Linux.
 
+My favourite quote:  
+
 > Now is better than never.  
 > Although never is often better than *right* now.  
 > - The Zen of Python 🐍 :wink:
