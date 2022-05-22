@@ -1,12 +1,25 @@
 ### Hi there 👋
 
+I am an experienced Test Automation Engineer 🤖 with a demonstrated history of working in the banking and insurance industry. Skilled in SQL, Test Automation, Linux.
+
+🌱 I’m currently learning:
+- Typescript
+- Nodejs
+
+💬 Ask me about:
+- Happy to discuss anything 😊
+
+📫 How to reach me: 
+- ✉️ mail@adamszegedi.eu
+- Discord: AdamSzegedi#2562
+
 <!--
 **adamszegedi/adamszegedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
