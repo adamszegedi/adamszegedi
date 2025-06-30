@@ -17,7 +17,6 @@ My favourite quote:
 
 📫 How to reach me: 
 - ✉️ mail@adamszegedi.eu
-- Discord: AdamSzegedi#2562
 
 <!--
 **adamszegedi/adamszegedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
